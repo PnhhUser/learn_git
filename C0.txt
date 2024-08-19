@@ -1,2 +1,3 @@
 start
 begin
+continue begin
